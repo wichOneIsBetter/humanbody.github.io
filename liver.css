@@ -1,0 +1,39 @@
+body{
+    background:url(yebgNAPBke9z9U3mxpSAB9.jpg);
+}
+
+
+
+.liver-data{
+    position: absolute;
+    width: 300px;
+    font-size: 30px;
+    left: 35%;
+    font-weight: 600;
+    
+}
+
+.back button{
+        height: 200px;
+        width: 200px;
+        position: absolute;
+        left: 80%;
+        top: 30%;
+        border-color: rgb(114, 114, 212);
+        background-color: rgb(208, 64, 64);
+        border-radius: 100%;
+        border-width: 10px;
+        font-size: 40px;
+        font-family: fantasy;
+        color: white;
+}
+
+
+
+.back button:hover{
+    cursor: pointer;
+}
+
+
+
+

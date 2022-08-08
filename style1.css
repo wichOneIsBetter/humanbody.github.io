@@ -1,0 +1,26 @@
+body{
+    background:url(yebgNAPBke9z9U3mxpSAB9.jpg);
+}
+
+
+
+
+
+.button button{
+    position: absolute;
+    left: 38%;
+    bottom: 40%;
+    border-radius: 10px;
+    border-color: rgb(114, 114, 212);
+    background-color: rgb(208, 64, 64);
+    border-width: 10px;
+    color: white;
+    height: 200px;
+    width: 300px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.button button:hover{
+    cursor: pointer;
+}
